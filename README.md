@@ -1,65 +1,79 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>- Machine Learning and Data Analysis projects<br>👯 I’m looking to collaborate on  <br>- AI/ML and Data Science projects  <br>- Open source tech projects  <br>- Innovative problem-solving applications<br>🤝 I’m looking for help with  <br>- Deep Learning and Neural Networks  <br>- Advanced Data Analysis techniques 
+```bash
+$ whoami
+```
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/arpitm169._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arpitm169) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arpitm169@gmail.com) 
-
-# 💻 Tech Stack
-
-## 🧠 Programming Languages
-![Java](https://img.shields.io/badge/JAVA-FFD43B?style=for-the-badge&logo=openjdk&logoColor=black)
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+```
+Name        : Arpit Malhotra
+Education   : B.Tech CSE @ [Your College]
+Status      : [Your Year] Student
+Location    : India 🇮🇳
+Role        : Aspiring Software Engineer | AI/ML Enthusiast
+Open To     : SDE, Data & AI Internships
+```
 
 ---
 
-## 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+```bash
+$ interests
+```
+
+```
+🤖  Machine Learning & Data Analysis
+🧠  Deep Learning & Neural Networks
+🌐  Web Development
+🔓  Open Source Contributions
+```
 
 ---
 
-## ⚙️ Frameworks & Libraries
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+```bash
+$ current_focus
+```
+
+```
+→ Building ML and Data Analysis projects
+→ Exploring Deep Learning and Neural Networks
+→ Contributing to Open Source
+→ Continuously learning, building and improving every day
+```
 
 ---
 
-## 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-white?style=for-the-badge&logo=plotly&logoColor=black)
-![Anaconda](https://img.shields.io/badge/ANACONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Power BI](https://img.shields.io/badge/POWER_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+```bash
+$ tech_stack
+```
+
+```
+Languages   : Python | Java | JavaScript | C++
+Web         : HTML5 | CSS3 | React | TailwindCSS
+Frameworks  : Flask | FastAPI | Streamlit | OpenCV | Scikit-Learn
+Data / ML   : Pandas | NumPy | Matplotlib | Power BI | Anaconda
+Databases   : MySQL | PostgreSQL | JWT
+Tools       : Git | GitHub | Figma | Canva | Swagger
+```
 
 ---
 
-## 🗄️ Databases & Backend
-![MySQL](https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+```bash
+$ stats
+```
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=arpitm169&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitm169&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
 ---
 
-## 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![Swagger](https://img.shields.io/badge/SWAGGER-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![Canva](https://img.shields.io/badge/CANVA-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)
-![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
+```bash
+$ connect
+```
 
-![](https://streak-stats.demolab.com/?user=arpitm169&theme=shadow_red&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=arpitm169&theme=shadow_red&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+```
+→ LinkedIn  : linkedin.com/in/arpitm169
+→ Instagram : instagram.com/arpitm169._
+→ Email     : arpitm169@gmail.com
+```
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+---
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=arpitm169&color=58a6ff&style=flat-square&label=Profile+Views)
