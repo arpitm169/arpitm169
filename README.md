@@ -13,7 +13,7 @@ Education   : B.Tech CSE @ SRM Institute of Science and Technology
 Status      : Final Year Student
 Location    : India 🇮🇳
 Role        : Aspiring Software Engineer | AI/ML Enthusiast
-Open To     : SDE, Data & AI Internships
+Open To     : Analysis, Data & AI/ML Internships
 ```
 
 ---
@@ -26,7 +26,7 @@ $ interests
 🤖  Machine Learning & Data Analysis
 🧠  Deep Learning & Neural Networks
 🌐  Web Development
-🔓  Open Source Contributions
+🔓  Data Analytics
 ```
 
 ---
