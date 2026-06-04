@@ -24,10 +24,12 @@ Open To     : Analysis, Data & AI/ML Internships
 ```bash
 $ interests
 ```
-🤖  Machine Learning & Data Analysis
-🧠  Deep Learning & Neural Networks
-🌐  Web Development
-🔓  Data Analytics
+<div align="center">
+  <img src="https://img.shields.io/badge/🤖_Machine_Learning-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_Deep_Learning-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐_Web_Development-20232A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔓_Data_Analytics-20232A?style=for-the-badge" />
+</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="60%"/>
