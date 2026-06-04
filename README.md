@@ -8,10 +8,6 @@
 
 ---
 
-<table>
-<tr>
-<td valign="top" width="55%">
-
 ```bash
 $ whoami
 ```
@@ -28,20 +24,14 @@ Open To     : Analysis, Data & AI/ML Internships
 ```bash
 $ interests
 ```
-
-```
 🤖  Machine Learning & Data Analysis
 🧠  Deep Learning & Neural Networks
 🌐  Web Development
 🔓  Data Analytics
-```
 
-</td>
-<td valign="middle" width="45%">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100%"/>
-</td>
-</tr>
-</table>
+<div align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="60%"/>
+</div>
 
 ---
 
