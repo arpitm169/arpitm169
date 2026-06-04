@@ -6,7 +6,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+👋;AIML+Student+📊;Data+Analysis+💻;DSA+%7C+Python+⚡" />
 </p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+---
+
+<table>
+<tr>
+<td valign="top" width="55%">
 
 ```bash
 $ whoami
@@ -21,8 +25,6 @@ Role        : Aspiring Software Engineer | AI/ML Enthusiast
 Open To     : Analysis, Data & AI/ML Internships
 ```
 
----
-
 ```bash
 $ interests
 ```
@@ -33,6 +35,13 @@ $ interests
 🌐  Web Development
 🔓  Data Analytics
 ```
+
+</td>
+<td valign="middle" width="45%">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="100%"/>
+</td>
+</tr>
+</table>
 
 ---
 
