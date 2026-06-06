@@ -93,7 +93,7 @@ $ interests
 <h3 align="center">contributions in the last year</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=arpitm169&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitm169&theme=react-dark&bg_color=0d1117&color=00e5ff&line=00e5ff&point=00e5ff&area=true&hide_border=true" />
 </div>
 
 <div align="center">
