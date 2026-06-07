@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+👋;AIML+Student+📊;Data+Analysis+💻;DSA+%7C+Python+⚡" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub!+👋;AIML+Student;Data+Analysis;DSA+%7C+Python+" />
 </p>
 
 ---
