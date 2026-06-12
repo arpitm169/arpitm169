@@ -52,6 +52,7 @@ $ interests
 ![React](https://img.shields.io/badge/REACT-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TAILWINDCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
+
 ---
 
 ## ⚙️ Frameworks & Libraries
