@@ -13,7 +13,7 @@ $ whoami
 ```
 
 ```
-Name        : Arpit Malhotr
+Name        : Arpit Malhotra
 Education   : B.Tech CSE @ SRM Institute of Science and Technology
 Status      : Final Year Student
 Location    : India 🇮🇳
