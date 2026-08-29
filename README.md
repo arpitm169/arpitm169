@@ -99,10 +99,11 @@ $ interests
 
 # 📊 GitHub Stats:
 
-<h3 align="center">contributions in the last year</h3>
+<h3 align="center">GitHub Stats</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitm169&theme=react-dark&bg_color=0d1117&color=00e5ff&line=00e5ff&point=00e5ff&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitm169&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9" height="165"/>
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=arpitm169&theme=react-dark&hide_border=true&background=0d1117&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff" height="165"/>
 </div>
 
 
