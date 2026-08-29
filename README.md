@@ -99,10 +99,10 @@ $ interests
 
 # 📊 GitHub Stats:
 
-<h3 align="center">contributions in the last year</h3>
+<h3 align="center">daily commits (last 30 days)</h3>
 
 <div align="center">
-  <img src="https://github.pumbas.net/api/contributions/arpitm169?colour=00e5ff&bgColour=0d1117&dotColour=00e5ff&days=365" />
+  <img src="https://github.pumbas.net/api/contributions/arpitm169?colour=00e5ff&bgColour=0d1117&dotColour=00e5ff&days=30" />
 </div>
 
 
